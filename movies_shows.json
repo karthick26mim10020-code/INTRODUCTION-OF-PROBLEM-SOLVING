@@ -1,0 +1,35 @@
+[
+    {
+        "type": "Movie",
+        "title": "baahubali",
+        "year": "2015",
+        "duration": "150",
+        "genre": "action",
+        "watched": true
+    },
+    {
+        "type": "Movie",
+        "title": "Baahubali",
+        "year": "2015",
+        "duration": "150",
+        "genre": "action",
+        "watched": false
+    },
+    {
+        "type": "Movie",
+        "title": "Baahubali",
+        "year": "2015",
+        "duration": "150",
+        "genre": "Action",
+        "watched": false
+    },
+    {
+        "type": "Show",
+        "title": "Stranger things",
+        "year": "2016",
+        "seasons": "5",
+        "episodes": "8",
+        "duration": "50",
+        "watched": false
+    }
+]
